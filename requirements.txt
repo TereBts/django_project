@@ -8,6 +8,7 @@ future @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84
 google-auth==2.40.3
 google-auth-oauthlib==1.2.2
 gspread==6.2.1
+gunicorn==20.1.0
 idna==3.10
 macholib @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84naJzmK7469Q/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 numpy==2.0.2
